@@ -24,3 +24,7 @@
   * [📃 Contracts](projects/bitblocks-finance/contracts.md)
   * [🗓 Roadmap](projects/bitblocks-finance/roadmap.md)
   * [History](projects/bitblocks-finance/history.md)
+
+***
+
+* [📖 Documentation Bounty](documentation-bounty.md)
