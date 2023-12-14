@@ -1,0 +1,3 @@
+# 🌻 BitBlocks Finance
+
+BitBlocks Finance is a decentralized finance (DeFi) platform that combines a decentralized exchange (DEX) with yield farming features and efficient burn mechanisms. Operating on both the Binance Smart Chain and the Polygon Network, BitBlocks Finance offers users a fast and economical trading experience, as well as opportunities to earn BBKFI tokens and other tokens through staking.

@@ -1,0 +1,3 @@
+# Deflationary Tokens
+
+After operating BitBlocks Finance for a while, we realized that we needed more liquidity for our protocol. To solve this problem, we created an exclusive token for each network. On the Binance Smart Chain (BSC) network, we have BitBlocks FIRE (BFIRE), and on the Polygon network, we have BitBlocks AQUA (BAQUA). These tokens were developed to automatically burn BBKFI and generate liquidity for the BitBlocks Finance protocol.

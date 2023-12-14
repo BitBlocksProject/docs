@@ -39,10 +39,5 @@ Also, holders earn passive rewards through static reflection as they watch their
 
 \*\* the initial liquidity pool will be locked in Unicrypt for 1 year.
 
-
-
-Liquidity locked:\
-[https://app.unicrypt.network/amm/pancake-v2/token/0xE5599A12a8fF06A690ffD2790C54A37c74A43208](https://app.unicrypt.network/amm/pancake-v2/token/0xE5599A12a8fF06A690ffD2790C54A37c74A43208)\
-\
 MoonArch info:\
 [https://moonarch.app/token/0xe5599a12a8ff06a690ffd2790c54a37c74a43208](https://moonarch.app/token/0xe5599a12a8ff06a690ffd2790c54a37c74a43208)
