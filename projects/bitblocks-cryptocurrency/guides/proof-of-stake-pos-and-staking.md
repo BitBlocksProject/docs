@@ -1,31 +1,31 @@
-# Proof of Stake (POS) e Staking
+# Proof of Stake (POS) and Staking
 
-O Proof of Stake (POS) é um mecanismo de consenso alternativo ao Proof of Work (POW), utilizado por muitas criptomoedas, incluindo a BitBlocks. Em vez de depender do poder de processamento de computadores para validar e confirmar transações, o POS utiliza a participação de moedas dos usuários (stake) como base para a seleção dos validadores de blocos.
+Proof of Stake (POS) is an alternative consensus mechanism to Proof of Work (POW), used by many cryptocurrencies, including BitBlocks. Instead of relying on the processing power of computers to validate and confirm transactions, POS uses the coin stake of users as the basis for the selection of block validators.
 
-**Como funciona o POS na BitBlocks**
+**How POS Works in BitBlocks**
 
-Na BitBlocks, o processo de staking permite que os usuários que possuem moedas (BBK) em suas carteiras participem ativamente do processo de validação de transações e ganhem recompensas por isso. Quando você faz staking com suas moedas, você está efetivamente "trancando" suas moedas na rede, ajudando a garantir e manter a rede descentralizada.
+In BitBlocks, the staking process allows users who own coins (BBK) in their wallets to actively participate in the transaction validation process and earn rewards for it. When you stake with your coins, you are effectively "locking" your coins in the network, helping to secure and maintain the decentralized network.
 
-**Como fazer staking na BitBlocks**
+**How to Stake in BitBlocks**
 
-1. Primeiro, certifique-se de ter uma quantidade de BitBlocks (BBK) em sua carteira. Se você ainda não possui BBK, adquira-as em uma das corretoras listadas na seção "[Exchanges](../links-e-utilidades.md#6.2-exchanges-e-comercio)" desta documentação ou troque outras criptomoedas por BBK na BitBlocks Finance.
-2. Baixe e instale a carteira BitBlocks (wallet) no seu computador, caso ainda não o tenha feito. Você pode encontrar a wallet oficial no seguinte link: [https://github.com/BitBlocksProject/BitBlocks/releases](https://github.com/BitBlocksProject/BitBlocks/releases)
-3. Gere um endereço na aba Receive e transfira seus BBK para sua carteira BitBlocks, usando o endereço fornecido.
-4. Abra sua carteira BitBlocks e deixe-a sincronizar com a rede. Este processo pode levar algum tempo, dependendo da sua conexão com a internet e do número de blocos na rede.
-5. Habilite a opção de staking na carteira, clique em tools no menu superior , open wallet configuration file , após clicar abrirá um arquivo de texto, adicione essa linha:`staking=1` salve o arquivo e depois feche a carteira.
-6. Abra a carteira novamente e aguarde a sincronização completa, depois de sincronizada você começará a ganhar recompensas com base na quantidade de BBK que possui e na duração do staking.
+1. First, make sure you have a number of BitBlocks (BBK) in your wallet. If you do not yet own BBK, acquire them on one of the exchanges listed in the "[Exchanges](../links-e-utilidades.md#6.2-exchanges-e-comercio)" section of this documentation or exchange other cryptocurrencies for BBK on BitBlocks Finance.
+2. Download and install the BitBlocks wallet on your computer, if you have not already done so. You can find the official wallet at the following link: [https://github.com/BitBlocksProject/BitBlocks/releases](https://github.com/BitBlocksProject/BitBlocks/releases)
+3. Generate an address in the Receive tab and transfer your BBK to your BitBlocks wallet, using the provided address.
+4. Open your BitBlocks wallet and let it sync with the network. This process can take some time, depending on your internet connection and the number of blocks on the network.
+5. Enable the staking option in the wallet, click on tools in the top menu, open wallet configuration file, after clicking it will open a text file, add this line:`staking=1` save the file and then close the wallet.
+6. Open the wallet again and wait for the full synchronization, after synchronized you will start earning rewards based on the amount of BBK you own and the duration of the staking.
 
-para confirmar que sua carteira está em staking você pode verificar o icone no canto inferior direito\
+To confirm that your wallet is staking you can check the icon in the lower right corner\
 ![](<../../../.gitbook/assets/image (3).png>)
 
-**Recompensas e benefícios do staking**
+**Staking Rewards and Benefits**
 
-Fazer staking na BitBlocks oferece vários benefícios, como:
+Staking in BitBlocks offers several benefits, such as:
 
-* Contribuir para a segurança e estabilidade da rede BitBlocks
-* Ganhar recompensas na forma de novas moedas BBK
-* Participar do processo de consenso e validação de transações
+* Contributing to the security and stability of the BitBlocks network
+* Earning rewards in the form of new BBK coins
+* Participating in the consensus process and transaction validation
 
-As recompensas são distribuídas de forma proporcional à quantidade de BBK que você possui e ao tempo que você mantém suas moedas em staking. Quanto mais BBK você tiver e quanto mais tempo mantê-las em staking, maior será a recompensa que você receberá.
+Rewards are distributed proportionally to the amount of BBK you own and the time you keep your coins in staking. The more BBK you have and the longer you keep them in staking, the greater the reward you will receive.
 
-Lembre-se de que, ao fazer staking, suas moedas BBK ficarão "trancadas" e não poderão ser usadas para transações até que você desative o staking. No entanto, esta é uma ótima maneira de apoiar a rede Bitblocks\
+Remember that when staking, your BBK coins will be "locked" and cannot be used for transactions until you disable staking. However, this is a great way to support the Bitblocks network.
